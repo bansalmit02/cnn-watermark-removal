@@ -1,3 +1,3 @@
 FROM gitpod/workspace-full
 
-RUN udo apt-get install libjpeg-dev zlib1g-dev
+RUN sudo apt-get install libjpeg-dev zlib1g-dev
